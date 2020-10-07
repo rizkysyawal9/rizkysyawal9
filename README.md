@@ -8,4 +8,7 @@ I'm currently a final year student at IPB University trying my best to graduate.
 - ⚡ Fun fact: I like to sketch and design other stuff besides tech
 
 ### Coding Statistics
-<img src="https://wakatime.com/share/@rizky_syawal/c73ccfcb-527d-4d20-a200-63b871458c1d.svg" height="500"></img>
+<details>
+  <summary>Click here to see my activities over 7 days</summary>
+  <img src="https://wakatime.com/share/@rizky_syawal/c73ccfcb-527d-4d20-a200-63b871458c1d.svg" height="500"></img>
+</details>
